@@ -1,2 +1,2 @@
-# pancake-nodejs-examples
-Some examples to interact with Pancake smart contracts
+# PancakeSwap NodeJs Examples
+Some examples to interact with PancakeSwap smart contracts
